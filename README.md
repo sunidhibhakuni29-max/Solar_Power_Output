@@ -76,9 +76,9 @@ Dataset details:
 
 - Dataset Name: Solar Power Plant Data
 - File Format: CSV
-- Data Source: To be specified by the team
-- Number of Rows: To be updated
-- Number of Columns: To be updated
+- Data Source: Kaggle
+- Number of Rows: 8760
+- Number of Columns: 8
 - Target Variable: Confirm the exact solar power output column in the notebook.
 
 ## 5. Technologies and Requirements
