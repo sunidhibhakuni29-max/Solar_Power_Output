@@ -109,7 +109,7 @@ Follow these steps to run the project on your computer.
 ### Step 1: Clone the Repository
 
 ```bash
-https://github.com/sunidhibhakuni29-max/Solar_Power_Output.git
+gh repo clone sunidhibhakuni29-max/Solar_Power_Output
 ```
 
 ### Step 2: Open the Project Directory
