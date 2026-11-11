@@ -39,7 +39,6 @@ Solar_Power_Output/
 ├── Code/
 │   ├── Solar Power Plant Data.csv
 │   ├── code.ipynb
-│   ├── code1.ipynb
 │   ├── model_comparison.csv
 │   ├── solar_linear_regression.pkl
 │   └── solar_prediction_results.csv
@@ -57,7 +56,6 @@ Solar_Power_Output/
 |---|---|
 | Solar Power Plant Data.csv | Dataset used for the project |
 | code.ipynb | Jupyter Notebook containing project code |
-| code1.ipynb | Additional Jupyter Notebook |
 | model_comparison.csv | Stores model comparison results |
 | solar_linear_regression.pkl | Saved Linear Regression model |
 | solar_prediction_results.csv | Stores prediction results |
@@ -79,7 +77,7 @@ Dataset details:
 - Data Source: Kaggle
 - Number of Rows: 8760
 - Number of Columns: 8
-- Target Variable: Confirm the exact solar power output column in the notebook.
+- Target Variable: Solar Production
 
 ## 5. Technologies and Requirements
 
@@ -111,7 +109,7 @@ Follow these steps to run the project on your computer.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/sunidhibhakuni29-max/Solar_Power_Output/blob/main/Code/code1.ipynb
+https://github.com/sunidhibhakuni29-max/Solar_Power_Output.git
 ```
 
 ### Step 2: Open the Project Directory
@@ -205,7 +203,7 @@ Actual output screenshots and graphs will be included after successful execution
 
 ## 10. Presentation
 
-- Project PPT: To be added.
+- Project PPT: To be added
 - Project Video: To be added.
 
 The presentation explains the problem statement, dataset, methodology, results, and team contributions.
