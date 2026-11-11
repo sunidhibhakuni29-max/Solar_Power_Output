@@ -203,8 +203,8 @@ Actual output screenshots and graphs will be included after successful execution
 
 ## 10. Presentation
 
-- Project PPT: To be added
-- Project Video: To be added.
+- Project PPT:  https://drive.google.com/file/d/1xmhoQHJvy5u8vACnALKT0dLqPZQYmIsQ/view?usp=share_link
+- Project Video: https://drive.google.com/file/d/1xmhoQHJvy5u8vACnALKT0dLqPZQYmIsQ/view?usp=share_link
 
 The presentation explains the problem statement, dataset, methodology, results, and team contributions.
 
@@ -213,8 +213,6 @@ The presentation explains the problem statement, dataset, methodology, results, 
 ChatGPT was used to assist with the preparation and organisation of project documentation.
 
 All documentation is reviewed and edited by the team.
-
-Any other AI tools used for coding, debugging, or analysis should also be disclosed with their respective purposes and verification methods.
 
 The team is responsible for understanding and verifying the project code, model, and results.
 
